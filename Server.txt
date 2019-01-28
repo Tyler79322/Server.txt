@@ -1,0 +1,87 @@
+[17:46:40] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:46:45] [Server thread/INFO] [minecraft/DedicatedServer]: Starting minecraft server version 1.12.2
+[17:46:45] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2768 Initialized
+[17:46:45] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[17:46:45] [Server thread/INFO] [FML]: Replaced 1036 ore ingredients
+[17:46:46] [Server thread/INFO] [Sponge]: Found mcmod.info at jar:file:/C:/Users/seabi/Desktop/Minecraft%20Servers/1.12.2/Server/./mods/spongeforge-1.12.2-2768-7.1.4.jar!/mcmod.info
+[17:46:46] [Server thread/INFO] [Sponge]: Creating injector in stage 'PRODUCTION'
+[17:46:50] [Server thread/INFO] [FML]: Searching C:\Users\seabi\Desktop\Minecraft Servers\1.12.2\Server\.\mods for mods
+[17:46:50] [Server thread/WARN] [Sponge]: Plugin 'nexus' seems to be missing a valid mcmod.info metadata file. This is not a problem when testing plugins, however it is recommended to include one in public plugins.
+Please see https://docs.spongepowered.org/master/en/plugin/plugin-meta.html for details.
+[17:46:50] [Server thread/INFO] [FML]: Forge Mod Loader has identified 11 mods to load
+[17:46:50] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[17:46:50] [Server thread/WARN] [FML]: Missing English translation for spongeapi: assets/spongeapi/lang/en_us.lang
+[17:46:50] [Server thread/WARN] [FML]: Missing English translation for spongeforge: assets/spongeforge/lang/en_us.lang
+[17:46:50] [Server thread/WARN] [FML]: Missing English translation for nexus: assets/nexus/lang/en_us.lang
+[17:46:50] [Server thread/WARN] [FML]: Missing English translation for pixelextras: assets/pixelextras/lang/en_us.lang
+[17:46:50] [Server thread/WARN] [FML]: Missing English translation for wondertrade: assets/wondertrade/lang/en_us.lang
+[17:46:51] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, nexus, pixelextras, pixelmon, wondertrade] at CLIENT
+[17:46:51] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, spongeapi, sponge, spongeforge, nexus, pixelextras, pixelmon, wondertrade] at SERVER
+[17:46:51] [Server thread/WARN] [Sponge]: There's no certificate fingerprint available
+[17:46:51] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[17:46:51] [Server thread/INFO] [FML]: Found 1169 ObjectHolder annotations
+[17:46:51] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[17:46:51] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[17:46:51] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[17:46:51] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Starting version check at https://files.minecraftforge.net/maven/org/spongepowered/spongeforge/promotions_slim.json
+[17:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [spongeforge] Found status: OUTDATED Target: 7.1.2
+[17:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[17:46:52] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Starting version check at https://reforged.gg/forge/update.json
+[17:46:52] [Server thread/INFO] [Pixelmon]: Loading Pixelmon version 6.3.4
+[17:46:53] [Forge Version Check/INFO] [forge.VersionCheck]: [pixelmon] Found status: UP_TO_DATE Target: null
+[17:46:53] [Server thread/INFO] [Pixelmon]: Checking for migrations..
+[17:46:53] [Server thread/INFO] [Pixelmon]: Loading Advancements
+[17:46:54] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Utilities:loadDefaultCooldowns:93]: 2120447d-bb7a-49f3-83a0-aad8d4f2b7c5
+[17:46:54] [Server thread/INFO] [STDOUT]: [com.wondertrademod.wondertrade.Wondertrade:preInit:80]: [Wondertrade] Successfully loaded configuration File.
+[17:46:55] [Server thread/INFO] [FML]: Applying holder lookups
+[17:46:55] [Server thread/INFO] [FML]: Holder lookups applied
+[17:46:55] [Server thread/INFO] [Pixelmon]: Loading TM/HMs.
+[17:46:55] [Server thread/INFO] [FML]: Applying holder lookups
+[17:46:55] [Server thread/INFO] [FML]: Holder lookups applied
+[17:46:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `sponge` for name `human`, expected `spongeforge`. This could be a intended override, but in most cases indicates a broken mod.
+[17:46:55] [Server thread/INFO] [FML]: Applying holder lookups
+[17:46:55] [Server thread/INFO] [FML]: Holder lookups applied
+[17:46:55] [Server thread/INFO] [FML]: Applying holder lookups
+[17:46:55] [Server thread/INFO] [FML]: Holder lookups applied
+[17:46:55] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:46:55] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:46:55] [Server thread/INFO] [minecraft/DedicatedServer]: Loading properties
+[17:46:55] [Server thread/INFO] [minecraft/DedicatedServer]: Default game type: SURVIVAL
+[17:46:55] [Server thread/INFO] [minecraft/DedicatedServer]: Generating keypair
+[17:46:55] [Server thread/INFO] [minecraft/DedicatedServer]: Starting Minecraft server on 192.168.1.23:25565
+[17:46:55] [Server thread/INFO] [minecraft/NetworkSystem]: Using default channel type
+[17:46:56] [Server thread/INFO] [FML]: Applying holder lookups
+[17:46:56] [Server thread/INFO] [FML]: Holder lookups applied
+[17:46:56] [Server thread/INFO] [Pixelmon]: Registering shop items.
+[17:46:56] [Server thread/INFO] [Pixelmon]: Registering NPCs.
+[17:46:56] [Server thread/INFO] [Pixelmon]: Registered NPC trades.
+[17:46:56] [Server thread/INFO] [Pixelmon]: Registering structures.
+[17:46:58] [Server thread/INFO] [Pixelmon]: Registering drops.
+[17:46:58] [Server thread/INFO] [Pixelmon]: Registering Pokémon drops.
+[17:46:58] [Server thread/INFO] [Pixelmon]: Item not found: pixelmon:odd_keystone in pokedrops.json
+[17:46:58] [Server thread/INFO] [Pixelmon]: Registering battle rules.
+[17:47:04] [Server thread/INFO] [FML]: Injecting itemstacks
+[17:47:04] [Server thread/INFO] [FML]: Itemstack injection complete
+[17:47:04] [Server thread/INFO] [Pixelmon]: Registering spawn sets.
+[17:47:04] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 11 mods
+[17:47:04] [Server thread/INFO] [minecraft/DedicatedServer]: Preparing level "world"
+[17:47:04] [Server thread/INFO] [Sponge]: Checking for worlds that need to be migrated...
+[17:47:04] [Server thread/INFO] [Sponge]: No worlds were found in need of migration.
+[17:47:04] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[17:47:05] [Server thread/INFO] [FML]: Applying holder lookups
+[17:47:05] [Server thread/INFO] [FML]: Holder lookups applied
+[17:47:06] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 632 advancements
+[17:47:06] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 109 advancement trees
+[17:47:06] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing start region for level 0 (world)
+[17:47:07] [Server thread/INFO] [minecraft/MinecraftServer]: Preparing spawn area: 51%
+[17:47:07] [Server thread/INFO] [Sponge]: Loading world [world] (overworld)
+[17:47:08] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 632 advancements
+[17:47:08] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 109 advancement trees
+[17:47:08] [Server thread/INFO] [Sponge]: Loading world [DIM-1] (the_nether)
+[17:47:08] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 632 advancements
+[17:47:08] [Server thread/INFO] [minecraft/AdvancementList]: Loaded 109 advancement trees
+[17:47:08] [Server thread/INFO] [Sponge]: Loading world [DIM1] (the_end)
+[17:47:08] [Server thread/INFO] [minecraft/DedicatedServer]: Done (3.820s)! For help, type "help" or "?"
+[17:47:08] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+[17:47:10] [Server thread/INFO] [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
